@@ -1,0 +1,16 @@
+{
+  "name": "time-selector",
+  "version": "1.0.0",
+  "description": "Let user select a range of hours from a 24-hour clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "UI",
+    "hour",
+    "selector"
+  ],
+  "author": "Johannes Borgström <johannes@highspirits.se>",
+  "license": "ISC"
+}
